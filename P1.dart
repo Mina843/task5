@@ -11,6 +11,7 @@ void main(){
     // show the num of digits
     print("The Num OF Digits is : ${digit_Count}");
     print("This is good Program");
+    print("My Name Is Mina Samir");
 
   }
   else{
