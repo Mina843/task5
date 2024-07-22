@@ -8,7 +8,9 @@ void main(){
 
   if (input != null){
     int digit_Count = input.length;
+    // show the num of digits
     print("The Num OF Digits is : ${digit_Count}");
+    print("This is good Program");
 
   }
   else{
